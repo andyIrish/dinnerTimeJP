@@ -1,0 +1,31 @@
+1. github?? make public rep
+2. input from UI and store it as 
+3. singly linked arryalist for Data Structure
+
+add, print, double if more ingedients,
+
+search for all ingredients - pulls first
+
+if you have extra items here are other recipes 
+
+fill array of ingedients - dialogue box java GUI 
+
+
+object.time 
+
+compare two lists - array list is recipe objects - arraylist of objects housing ingredients 
+
+
+GUI -- davis - Key Ingredient 
+Database - jaydyn - newArrayList for cooking time
+Search - userInput will be by Time
+Sort -  by time or servings - 1 parameter vy servings - would bring you to Printing out recipes within those servings 
+
+TIme and Servings
+
+arraylist is data structure 
+
+could the output of sort be if (keyingredient == userInput)
+{
+	
+}
