@@ -16,10 +16,10 @@ object.time
 compare two lists - array list is recipe objects - arraylist of objects housing ingredients 
 
 
-GUI -- davis - Key Ingredient 
-Database - jaydyn - newArrayList for cooking time
+GUI -- davis - Key Ingredient  - only inputs are ingredients and time  - USERINPUT no spaces, one word, one at a time 
+Database - jaydyn - newArrayList for cooking time and KEYINGREDIENTS 
 Search - userInput will be by Time
-Sort -  by time or servings - 1 parameter vy servings - would bring you to Printing out recipes within those servings 
+Sort -  by time - 1 parameter vy time - would bring you to Printing out recipes within those servings 
 
 TIme and Servings
 
