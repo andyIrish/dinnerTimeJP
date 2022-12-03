@@ -29,3 +29,5 @@ could the output of sort be if (keyingredient == userInput)
 {
 	
 }
+Another sorting idea...
+Use items entered in UI (an "on hand" listto create a metric to return a few recipes that most closely match "on hand" list. suggesting missing items for purchase. A simple count of matches might suffice.
