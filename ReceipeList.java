@@ -89,7 +89,10 @@ public class ReceipeList {
 		
 		
 		
-
+		//  if (RamenTime == "60");
+		//	Ramen.printArray;
+		// if (userNext().TacoSaladTime == "30"
+		// 	TacoSaladTime.printArray;
 		
 		
 	}
