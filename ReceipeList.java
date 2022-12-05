@@ -1,3 +1,4 @@
+import java.util.Scanner;  // Import the Scanner class
 package groupProject;
 public class ReceipeList {
 
@@ -87,6 +88,9 @@ public class ReceipeList {
 		TacoSaladMain.appendElement("Beef ");
 		TacoSalad.printArray();
 		
+		
+		Scanner scan = new Scanner(System.in);  // Create a Scanner object
+		String userChoice = scan.nextLine();  // Read user input
 		
 		
 		//  if (RamenTime == "60");
