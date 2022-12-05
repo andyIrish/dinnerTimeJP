@@ -1,5 +1,5 @@
 package application;
-	
+import java.util.Scanner;  // Import the Scanner class
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.stage.Stage;
@@ -63,5 +63,7 @@ public class Main extends Application {
 	
 	public static void main(String[] args) {
 		launch(args);
+		Scanner scan = new Scanner(System.in);  // Create a Scanner object
+		String userChoice = scan.nextLine();  // Read user input
 	}
 }
