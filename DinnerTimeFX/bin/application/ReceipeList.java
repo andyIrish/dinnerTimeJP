@@ -31,7 +31,7 @@ public class ReceipeList {
 		chickenFriedSteak.appendElement("1/2 cup of vegetable oil");
 		chickenFriedSteak.appendElement("1 tablespoon butter");
 		
-		chickenFriedSteakTime.appendElement("60 mins");
+		chickenFriedSteakTime.appendElement("60 minutes");
 		
 		chickenFriedSteakServings.appendElement("6 servings");
 		
@@ -82,7 +82,7 @@ public class ReceipeList {
 		TacoSalad.appendElement("1/3 cup red onion");
 		TacoSalad.appendElement("1 1/2 cups shredded cheese");
 		
-		TacoSaladTime.appendElement("30 mins");
+		TacoSaladTime.appendElement("30 minutes");
 		TacoSaladServings.appendElement("4 servings");
 		TacoSaladMain.appendElement("Beef");
 		TacoSalad.printArray();
