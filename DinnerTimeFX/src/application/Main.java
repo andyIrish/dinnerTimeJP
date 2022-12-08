@@ -114,9 +114,18 @@ public class Main extends Application {
 		int userTime = 0; 
 		String[] testList = { "Milk", "Steak", "Jelly Beans"};
 		String[] testList2 = { "oatmeal", "water"};
-		ReceipeList milkSteak = new ReceipeList(testList, userTime);
-		ReceipeList oatMeal = new ReceipeList(testList2, 3);
+		String[] testList3 = { "Potatoes", "Lamb Chops", "Seasame Oil" , "Salt and Pepper", "Love"};
+		String[] testList4 = { "herring", "pickled eggs","oatmeal""turkey broth", "orange jello", "coffee water", "love"};
+		String[] testList5 = { "eggs", "Steak", "chevre", "salt and pepper"};
+		String[] testList6 = { "protein powder", "water"};
 		
+		
+		ReceipeList milkSteak = new ReceipeList(testList, userTime);
+		ReceipeList oatMeal = new ReceipeList(testList2, 5);
+		ReceipeList YummoLambAndTaters = new ReceipeList(testList3, 45);
+		ReceipeList PickledHerring = new ReceipeList(testList4, 30);
+		ReceipeList Omelet = new ReceipeList(testList4, 15);
+		ReceipeList ProteinShake = new ReceipeList(testList5, 5);
 		
 		
 		recipes.appendElement(milkSteak);
